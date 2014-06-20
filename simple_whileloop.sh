@@ -6,3 +6,4 @@ do
     echo The counteris at $COUNTER
     let COUNTER=COUNTER+1
 done
+echo "DONE"
